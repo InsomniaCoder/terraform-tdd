@@ -1,0 +1,7 @@
+*.tfstate
+*.backup
+.envrc
+.terraform
+.idea
+*.mod
+*.sum
